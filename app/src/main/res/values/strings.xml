@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CirclePageIndicator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="image_text">texto de imagen</string>
+
+
+    <!-- drawables -->
+    <string name="image_text_uno">Uno</string>
+    <string name="image_text_dos">Dos</string>
+    <string name="image_text_tres">Tres</string>
+
+</resources>
